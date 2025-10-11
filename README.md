@@ -1,3 +1,13 @@
+---
+layout: post
+title: "README"
+date: 2025-10-09 18:26:27 +0200
+author: sal
+categories: blog
+tags: [Jekyll, Mundana, Blog]
+excerpt: "Résumé pour l'article README"
+image: /assets/images/article-image.jpg
+---
 # Jekyll Theme - Mundana by WowThemes.net
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
